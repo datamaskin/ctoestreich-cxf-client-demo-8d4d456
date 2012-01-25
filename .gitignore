@@ -1,0 +1,5 @@
+cxf-client-demo-grailsPlugins.iml
+cxf-client-demo.iml
+cxf-client-demo.ipr
+src/groovy/com/cxf/demo/logging/*
+!.gitignore
